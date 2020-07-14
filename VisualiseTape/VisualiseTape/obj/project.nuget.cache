@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YxZMOsCKSdk7HwHVhm3mZiP5JtpSZjl4a8swv+IVEUjYSCTSObh1qsYClkkNG2pZ+jPhhU7v3p+6j/o6mbwl4Q==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Dropbox\\elliott903\\Programs\\FS_UTILITIES\\VisualiseTape\\VisualiseTape\\VisualiseTape.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

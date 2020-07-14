@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D5Ws9GxiZ14GpQhmUGYUALtm+yKaSeTXlAEYUSH+i8cnEXm+O2XbPFY7H9Xpmqg9Xt+icE9goRF6VbllYk9Maw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Dropbox\\elliott903\\Programs\\FS_UTILITIES\\ScanTapes\\Scan Tapes\\Scan Tapes.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

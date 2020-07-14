@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Scan_Tapes</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="ScanTapes.fs" />
+  </ItemGroup>
+
+</Project>

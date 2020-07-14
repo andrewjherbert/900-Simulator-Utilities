@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/1lIY4/iNnKT9dkga3AvSiGQ0i3yUlv3mb4YRVRCxg/jf1UV3BjL1vU3Q/w57Gh1M35KZFq3djcZPovSTwmrw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Dropbox\\elliott903\\Programs\\FS_UTILITIES\\StripHeader\\StripHeader\\StripHeader.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XispJA8D3q/3D54rkovJWvYG71fQsLJEdezjbTFB50A7tOwZY0dEMr00kMlcBLW//o7MJmQs2H0W4eC9zYemaw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Dropbox\\elliott903\\Programs\\FS_UTILITIES\\SIRPrint\\SIRPrint\\SIRPrint.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
